@@ -12,7 +12,7 @@ node_modules
 dist
 *.local
 
-*_lock.*
+*-lock.*
 
 # Editor directories and files
 .idea
