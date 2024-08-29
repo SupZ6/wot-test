@@ -1,0 +1,16 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "Wot Design Uni"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "light",
+		"navigationBarTitleText": "Wot Design Uni",
+		"navigationBarBackgroundColor": "#222",
+		"backgroundColor": "#222"
+	}
+}
